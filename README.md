@@ -1,8 +1,10 @@
 <h1 align="center">Hello, folks!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Software Engineer | CS Enthusiast</h3>
-<p align="center">
-   [![Linkedin Badge](https://img.shields.io/badge/-yan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-ren-ryan/)](https://www.linkedin.com/in/yan-ren-ryan/)[![Website Badge](https://img.shields.io/badge/-github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://yan-ren.github.io/yan-profile/)](https://yan-ren.github.io/yan-profile/)
-</p>
+<div align="center">
+
+   [![Linkedin Badge](https://img.shields.io/badge/-yan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-ren-ryan/)](https://www.linkedin.com/in/yan-ren-ryan/)
+   [![Website Badge](https://img.shields.io/badge/-github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://yan-ren.github.io/yan-profile/)](https://yan-ren.github.io/yan-profile/)
+</div>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Explored...***
 <p align="left">
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
