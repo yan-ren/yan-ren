@@ -21,6 +21,7 @@
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
@@ -28,12 +29,13 @@
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"></code>
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg"></code>
 </p>
 <hr>
 <h3>
    <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yan-ren&show_icons=true&locale=en&layout=compact&langs_count=10&hide=c,assembly" alt="yan-ren" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yan-ren&show_icons=true&locale=en" alt="yan-ren" width="410" /></p>
-<p><img align="right" src="https://raw.githubusercontent.com/yan-ren/github-stats/master/generated/overview.svg" alt="yan-ren" width="410" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yan-ren&show_icons=true&locale=en" alt="yan-ren" width="400" /></p>
+<br> -->
+<p><img align="center" src="https://raw.githubusercontent.com/yan-ren/github-stats/master/generated/overview.svg" alt="yan-ren" /></p>
