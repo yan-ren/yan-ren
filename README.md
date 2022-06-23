@@ -1,11 +1,11 @@
-<h1 align="center">Hello, folks!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hello, folks!</h1>
 <h3 align="center">Software Engineer | CS Enthusiast</h3>
 <div align="center">
 
    [![Linkedin Badge](https://img.shields.io/badge/-yan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-ren-ryan/)](https://www.linkedin.com/in/yan-ren-ryan/)
    [![Website Badge](https://img.shields.io/badge/-github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://yan-ren.github.io/yan-profile/)](https://yan-ren.github.io/yan-profile/)
 </div>
-<h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Explored...***</h3>
+<h3>***Languages & Tools I Explored...***</h3>
 <p align="left">
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
@@ -33,7 +33,7 @@
 </p>
 <hr>
 <h3>
-   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+   <i><b>GitHub Stats</b></i>
 </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yan-ren&show_icons=true&locale=en&layout=compact&langs_count=10&hide=c,assembly" alt="yan-ren" /></p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yan-ren&show_icons=true&locale=en" alt="yan-ren" width="400" /></p>
