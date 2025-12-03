@@ -35,7 +35,7 @@
 <h3>
    <i><b>GitHub Stats</b></i>
 </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yan-ren&show_icons=true&locale=en&layout=compact&langs_count=10&hide=c,assembly" alt="yan-ren" /></p>
+<p><img align="left" src="https://raw.githubusercontent.com/yan-ren/github-stats/master/generated/languages.svg" alt="yan-ren" /></p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yan-ren&show_icons=true&locale=en" alt="yan-ren" width="400" /></p>
 <br> -->
 <p><img align="center" src="https://raw.githubusercontent.com/yan-ren/github-stats/master/generated/overview.svg" alt="yan-ren" /></p>
